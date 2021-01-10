@@ -14,8 +14,11 @@
 - [Table of Contents](#table-of-contents)
 - [Introduction](#introduction)
 - [Important Links](#important-links)
-- [Installations](#installations)
-  - [Zoom](#zoom)
+- [Zoom](#zoom)
+  - [Update/Install:](#updateinstall)
+- [Discord](#discord)
+  - [Installation](#installation)
+  - [Renaming yourself](#renaming-yourself)
   
 
 <!-- END doctoc generated TOC please keep comment here to allow auto update -->
@@ -32,21 +35,60 @@ A few important links:
 * Zoom Link for day 1: <a href="#">Link</a>
 * Equity Policy: <a href="#">Link</a>
 
-## Installations
+## Zoom
 <hr>
 
-### Zoom
+All Rounds will be held on Zoom. Please make sure you have Zoom Client Installed(and logged into) on multiple devices to avoid delays in case of power failure, loss of charge, etc. 
+
 *To be able to use Breakout Rooms feature, ZOOM CLIENT needs to be updated to version 5.3.0 or higher*
 
-
-To update:
-* Clicking on download from the link at https://zoom.us/support/download
-   
+### Update/Install:
+* Clicking on download from the link at https://zoom.us/support/download   
     OR
 * 1. Sign in to your zoom desktop client
   2. Click your profile picture
   3. Click on check for updates
    
-        <img src='./Assets/updates.png' height=400>
+        <img src='./Assets/updates.png' height=500 width=300>
 
 * If you are using Zoom on your phone, please update it to the latest versions using <a href="https://apps.apple.com/us/app/zoom-cloud-meetings/id546505307"> App Store </a> OR <a href="https://play.google.com/store/apps/details?id=us.zoom.videomeetings&hl=en_IN&gl=US">Play Store</a> links.
+
+## Discord
+
+All communications will happen on Discord App. Ensure you have Discord installed on your phones. It would be helpful if discord is kept open in a browser to ensure smooth experience.
+
+### Installation
+* Discord can be downloaded for all platforms from https://discord.com/download
+* Update to the latest versions using <a href="https://apps.apple.com/us/app/discord-talk-chat-hang-out/id985746746">iOS</a> or <a href="https://play.google.com/store/apps/details?id=com.discord&hl=en_US&gl=US">Android</a> links.
+* Once downloaded use the link: <a href="https://discord.me">https://discord.me</a> to join the server.
+
+### Renaming yourself
+
+Detailed naming convention can be found <a href="#naming">here</a>.
+
+Please rename yourself on discord as: \<role> \<Team Code> \<name>
+
+* For e.g. if you are a speaker called Shubham with team code as Cherry, rename yourself as 
+
+  ``` 
+  S Cherry Shubham
+  ```
+
+* Rename option can be found here on a mobile device:
+  * Click on the 3 dots
+  
+  * <img src="./Assets/phone_rename.jpeg" alt='phone_rename' height=400 width=300>
+  
+  * Scroll and find the "change nickname" option
+  
+  * <img src="./Assets/phone_rename2.jpeg" alt='phone_rename2' height=400 width=300>
+
+
+* Rename option can be found here on a desktop interface:
+  * Click on arrow:
+  
+  * <img src="./Assets/pc_rename.png" alt='pc_rename' height=500 width=800>
+  
+  * Scroll and find the "change nickname" option
+  
+  * <img src="./Assets/pc_rename2.png" alt='pc_rename2' height=500 width=800>
