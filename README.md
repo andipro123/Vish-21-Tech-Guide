@@ -15,10 +15,13 @@
 - [Introduction](#introduction)
 - [Important Links](#important-links)
 - [Zoom](#zoom)
-  - [Update/Install:](#updateinstall)
+  - [Update/Install](#updateinstall)
+  - [Renaming yourself](#renaming-yourself)
+  - [Breakout Rooms](#breakout-rooms)
 - [Discord](#discord)
   - [Installation](#installation)
-  - [Renaming yourself](#renaming-yourself)
+  - [Renaming yourself](#renaming-yourself-1)
+  - [How to use different channels](#how-to-use-different-channels)
   
 
 <!-- END doctoc generated TOC please keep comment here to allow auto update -->
@@ -38,11 +41,11 @@ A few important links:
 ## Zoom
 <hr>
 
-All Rounds will be held on Zoom. Please make sure you have Zoom Client Installed(and logged into) on multiple devices to avoid delays in case of power failure, loss of charge, etc. 
+All debates will be held on Zoom. Please make sure you have Zoom Client Installed(and logged into) on multiple devices to avoid delays in case of power failure, loss of charge, etc. 
 
 *To be able to use Breakout Rooms feature, ZOOM CLIENT needs to be updated to version 5.3.0 or higher*
 
-### Update/Install:
+### Update/Install
 * Clicking on download from the link at https://zoom.us/support/download   
     OR
 * 1. Sign in to your zoom desktop client
@@ -53,9 +56,35 @@ All Rounds will be held on Zoom. Please make sure you have Zoom Client Installed
 
 * If you are using Zoom on your phone, please update it to the latest versions using <a href="https://apps.apple.com/us/app/zoom-cloud-meetings/id546505307"> App Store </a> OR <a href="https://play.google.com/store/apps/details?id=us.zoom.videomeetings&hl=en_IN&gl=US">Play Store</a> links.
 
+
+### Renaming yourself
+
+**Rename yourself as soon as you join the Zoom Meeting. Delays incurred due to people not renaming themselves are highly discouraged.**
+
+Detailed naming convention can be found <a href="#naming">here</a>.
+
+Please rename yourself on discord as: \<round_name> \<room_name> \<role> \<Name>
+
+* For e.g. if you are a speaker called Shubham speaking for OG in room A5 in round 1, rename yourself as 
+
+  ``` 
+  R1 A5 OG Shubham
+  ```
+
+### Breakout Rooms
+* Different rooms will be allocated to participants in the Draws. 
+* As soon as you **rename** yourself, you'll be assigned a breakout room.
+* Once the debate is over, make sure you **leave the breakout room** and not the meeting.
+  <img src='./Assets/leave_breakout.jpeg' alt='leave_breakout'>
+
+
 ## Discord
 
-All communications will happen on Discord App. Ensure you have Discord installed on your phones. It would be helpful if discord is kept open in a browser to ensure smooth experience.
+<hr>
+
+All communications will happen on Discord App. Ensure you have Discord installed on your phones. It would be helpful if discord is kept open in a browser to ensure smooth experience. 
+
+*Discord will be used as a backup for debates, in case Zoom fails*
 
 ### Installation
 * Discord can be downloaded for all platforms from https://discord.com/download
@@ -63,6 +92,8 @@ All communications will happen on Discord App. Ensure you have Discord installed
 * Once downloaded use the link: <a href="https://discord.me">https://discord.me</a> to join the server.
 
 ### Renaming yourself
+
+**Rename yourself as soon as you join the server. Delays incurred due to people not renaming themselves are highly discouraged.**
 
 Detailed naming convention can be found <a href="#naming">here</a>.
 
@@ -77,11 +108,11 @@ Please rename yourself on discord as: \<role> \<Team Code> \<name>
 * Rename option can be found here on a mobile device:
   * Click on the 3 dots
   
-  * <img src="./Assets/phone_rename.jpeg" alt='phone_rename' height=400 width=300>
+  * <img src="./Assets/phone_rename.jpeg" alt='phone_rename' height=500 width=250>
   
   * Scroll and find the "change nickname" option
   
-  * <img src="./Assets/phone_rename2.jpeg" alt='phone_rename2' height=400 width=300>
+  * <img src="./Assets/phone_rename2.jpeg" alt='phone_rename2' height=500 width=250>
 
 
 * Rename option can be found here on a desktop interface:
@@ -92,3 +123,5 @@ Please rename yourself on discord as: \<role> \<Team Code> \<name>
   * Scroll and find the "change nickname" option
   
   * <img src="./Assets/pc_rename2.png" alt='pc_rename2' height=500 width=800>
+
+### How to use different channels
