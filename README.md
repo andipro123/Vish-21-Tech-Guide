@@ -1,6 +1,6 @@
 <h1 align="center"> Sir Visvesvaraya Memorial PD 2021 Tech-Guide </h1> <br>
 <p align="center">
-<img src='./Assets/Vish_logo.JPG' alt='VishLogo' style='width: 200px; height: 200px; border-radius: 50%;'>
+<img src='./Assets/Vish_logo.JPG' alt='VishLogo' style='width: 300px; height: 300px;'>
 </p>
 
 <p align="center">
@@ -14,14 +14,16 @@
 - [Table of Contents](#table-of-contents)
 - [Introduction](#introduction)
 - [Important Links](#important-links)
-- [Zoom](#zoom)
+- [Naming Convention](#naming-convention)
+  - [Discord](#discord)
+  - [Zoom](#zoom)
+- [Zoom](#zoom-1)
   - [Update/Install](#updateinstall)
   - [Renaming yourself](#renaming-yourself)
   - [Breakout Rooms](#breakout-rooms)
-- [Discord](#discord)
+- [Discord](#discord-1)
   - [Installation](#installation)
   - [Renaming yourself](#renaming-yourself-1)
-  - [How to use different channels](#how-to-use-different-channels)
   
 
 <!-- END doctoc generated TOC please keep comment here to allow auto update -->
@@ -37,6 +39,98 @@ A few important links:
 * Vish PD Discord Server: <a href="https://discord.gg/bVNSFhcnDH">Link</a>
 * Zoom Link for day 1: <a href="#">Link</a>
 * Equity Policy: <a href="#">Link</a>
+
+## Naming Convention
+<hr>
+Participants are requested to follow the naming convention strictly. You will have to rename yourself once on the discord server and everytime when you join a Zoom Meeting.
+
+### Discord
+Please rename yourself on discord as: \<role> \<Team Code>(if assigned) \<name>
+
+* For e.g. if you are a speaker called Shubham with team code as Cherry, rename yourself as 
+
+  ``` 
+  S Cherry Shubham
+  ```
+
+
+* For e.g. if you are an adjudicator called Rahib, rename yourself as 
+
+  ``` 
+  A Rahib
+  ```
+
+
+* For e.g. all members of OC/CA(s) will be named as 
+
+  ``` 
+  OC Aniket
+  CA Jinit
+  ```
+
+* Rename option can be found here on a mobile device:
+  * Click on the 3 dots
+  
+  * <img src="./Assets/phone_rename.jpeg" alt='phone_rename' height=500 width=250>
+  
+  * Scroll and find the "change nickname" option
+  
+  * <img src="./Assets/phone_rename2.jpeg" alt='phone_rename2' height=500 width=250>
+
+
+* Rename option can be found here on a desktop interface:
+  * Click on arrow:
+  
+  * <img src="./Assets/pc_rename.png" alt='pc_rename' height=500 width=800>
+  
+  * Scroll and find the "change nickname" option
+  
+  * <img src="./Assets/pc_rename2.png" alt='pc_rename2' height=500 width=800>
+
+
+### Zoom
+
+Please rename yourself on discord as: \<round_name> \<room_name> \<role> \<Name>
+
+* For e.g. 
+  * Round 1
+  * Room A5
+  * Opening Government
+  * Shubham
+
+
+  rename yourself as
+
+  ``` 
+  R1 A5 OG Shubham
+  ```
+
+* For e.g. 
+  * Round 3
+  * Room B1
+  * Chair
+  * Suresh
+
+
+  rename yourself as
+
+  ``` 
+  R3 B1 Chair Suresh
+  ```
+
+
+* For e.g. 
+  * Round 2
+  * Room A8
+  * Closing Opposition
+  * Jinit
+
+
+   rename yourself as
+
+  ``` 
+  R2 A8 CO Jinit
+  ```
 
 ## Zoom
 <hr>
@@ -61,15 +155,7 @@ All debates will be held on Zoom. Please make sure you have Zoom Client Installe
 
 **Rename yourself as soon as you join the Zoom Meeting. Delays incurred due to people not renaming themselves are highly discouraged.**
 
-Detailed naming convention can be found <a href="#naming">here</a>.
-
-Please rename yourself on discord as: \<round_name> \<room_name> \<role> \<Name>
-
-* For e.g. if you are a speaker called Shubham speaking for OG in room A5 in round 1, rename yourself as 
-
-  ``` 
-  R1 A5 OG Shubham
-  ```
+Detailed naming convention can be found <a href="#zoom">here</a>.
 
 ### Breakout Rooms
 * Different rooms will be allocated to participants in the Draws. 
@@ -95,33 +181,5 @@ All communications will happen on Discord App. Ensure you have Discord installed
 
 **Rename yourself as soon as you join the server. Delays incurred due to people not renaming themselves are highly discouraged.**
 
-Detailed naming convention can be found <a href="#naming">here</a>.
+Detailed naming convention can be found <a href="#discord">here</a>.
 
-Please rename yourself on discord as: \<role> \<Team Code> \<name>
-
-* For e.g. if you are a speaker called Shubham with team code as Cherry, rename yourself as 
-
-  ``` 
-  S Cherry Shubham
-  ```
-
-* Rename option can be found here on a mobile device:
-  * Click on the 3 dots
-  
-  * <img src="./Assets/phone_rename.jpeg" alt='phone_rename' height=500 width=250>
-  
-  * Scroll and find the "change nickname" option
-  
-  * <img src="./Assets/phone_rename2.jpeg" alt='phone_rename2' height=500 width=250>
-
-
-* Rename option can be found here on a desktop interface:
-  * Click on arrow:
-  
-  * <img src="./Assets/pc_rename.png" alt='pc_rename' height=500 width=800>
-  
-  * Scroll and find the "change nickname" option
-  
-  * <img src="./Assets/pc_rename2.png" alt='pc_rename2' height=500 width=800>
-
-### How to use different channels
