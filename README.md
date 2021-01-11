@@ -71,21 +71,21 @@ Please rename yourself on discord as: \<role> \<Team Code>(if assigned) \<name>
 * Rename option can be found here on a mobile device:
   * Click on the 3 dots
   
-  * <img src="./Assets/phone_rename.jpeg" alt='phone_rename'>
+  * <img src="./Assets/phone_rename.jpeg" alt='phone_rename' width=200 height=400>
   
   * Scroll and find the "change nickname" option
   
-  * <img src="./Assets/phone_rename2.jpeg" alt='phone_rename2'>
+  * <img src="./Assets/phone_rename2.jpeg" alt='phone_rename2' width=200 height=400>
 
 
 * Rename option can be found here on a desktop interface:
   * Click on arrow:
   
-  * <img src="./Assets/pc_rename.png" alt='pc_rename'>
+  * <img src="./Assets/pc_rename.png" alt='pc_rename' height=200 width=400>
   
   * Scroll and find the "change nickname" option
   
-  * <img src="./Assets/pc_rename2.png" alt='pc_rename2'>
+  * <img src="./Assets/pc_rename2.png" alt='pc_rename2' height=200 width=400>
 
 
 ### Zoom
@@ -133,10 +133,10 @@ Please rename yourself on discord as: \<round_name> \<room_name> \<role> \<Name>
   ```
 
 * On PC, click on more and choose rename:
-  <img src='./Assets/zoom_rename.png' alt="zoom_rename">
+  <img src='./Assets/zoom_rename.png' alt="zoom_rename" height=200 width=400>
 
 * On phones, click on more and choose rename:
-  <img src='./Assets/zoom_rename1.png' alt="zoom_rename1">
+  <img src='./Assets/zoom_rename1.png' alt="zoom_rename1" height=200 width=400>
   
 
 ## Zoom
@@ -153,7 +153,7 @@ All debates will be held on Zoom. Please make sure you have Zoom Client Installe
   2. Click your profile picture
   3. Click on check for updates
    
-        <img src='./Assets/updates.png' height=500 width=300>
+        <img src='./Assets/updates.png' height=400 width=200>
 
 * If you are using Zoom on your phone, please update it to the latest versions using <a href="https://apps.apple.com/us/app/zoom-cloud-meetings/id546505307"> App Store </a> OR <a href="https://play.google.com/store/apps/details?id=us.zoom.videomeetings&hl=en_IN&gl=US">Play Store</a> links.
 
@@ -168,7 +168,7 @@ Detailed naming convention can be found <a href="#zoom">here</a>.
 * Different rooms will be allocated to participants in the Draws. 
 * As soon as you **rename** yourself, you'll be assigned a breakout room.
 * Once the debate is over, make sure you **leave the breakout room** and not the meeting.
-  <img src='./Assets/leave_breakout.jpeg' alt='leave_breakout'>
+  <img src='./Assets/leave_breakout.jpeg' alt='leave_breakout' height=200 width=300>
 
 
 ## Discord
