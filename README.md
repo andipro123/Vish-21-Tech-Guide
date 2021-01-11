@@ -71,21 +71,21 @@ Please rename yourself on discord as: \<role> \<Team Code>(if assigned) \<name>
 * Rename option can be found here on a mobile device:
   * Click on the 3 dots
   
-  * <img src="./Assets/phone_rename.jpeg" alt='phone_rename' height=500 width=250>
+  * <img src="./Assets/phone_rename.jpeg" alt='phone_rename'>
   
   * Scroll and find the "change nickname" option
   
-  * <img src="./Assets/phone_rename2.jpeg" alt='phone_rename2' height=500 width=250>
+  * <img src="./Assets/phone_rename2.jpeg" alt='phone_rename2'>
 
 
 * Rename option can be found here on a desktop interface:
   * Click on arrow:
   
-  * <img src="./Assets/pc_rename.png" alt='pc_rename' height=500 width=800>
+  * <img src="./Assets/pc_rename.png" alt='pc_rename'>
   
   * Scroll and find the "change nickname" option
   
-  * <img src="./Assets/pc_rename2.png" alt='pc_rename2' height=500 width=800>
+  * <img src="./Assets/pc_rename2.png" alt='pc_rename2'>
 
 
 ### Zoom
@@ -132,6 +132,13 @@ Please rename yourself on discord as: \<round_name> \<room_name> \<role> \<Name>
   R2 A8 CO Jinit
   ```
 
+* On PC, click on more and choose rename:
+  <img src='./Assets/zoom_rename.png' alt="zoom_rename">
+
+* On phones, click on more and choose rename:
+  <img src='./Assets/zoom_rename1.png' alt="zoom_rename1">
+  
+
 ## Zoom
 <hr>
 
@@ -153,7 +160,7 @@ All debates will be held on Zoom. Please make sure you have Zoom Client Installe
 
 ### Renaming yourself
 
-**Rename yourself as soon as you join the Zoom Meeting. Delays incurred due to people not renaming themselves are highly discouraged.**
+**Rename yourself as soon as you join the server. Rounds will start on given times strictly. Failing to rename yourself might result in you being dropped from the tabs**
 
 Detailed naming convention can be found <a href="#zoom">here</a>.
 
@@ -179,7 +186,7 @@ All communications will happen on Discord App. Ensure you have Discord installed
 
 ### Renaming yourself
 
-**Rename yourself as soon as you join the server. Delays incurred due to people not renaming themselves are highly discouraged.**
+**Rename yourself as soon as you join the server. Rounds will start on given times strictly. Failing to rename yourself might result in you being dropped from the tabs**
 
 Detailed naming convention can be found <a href="#discord">here</a>.
 
