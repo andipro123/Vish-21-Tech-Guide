@@ -20,10 +20,12 @@
 - [Zoom](#zoom-1)
   - [Update/Install](#updateinstall)
   - [Renaming yourself](#renaming-yourself)
+  - [Meeting A and Meeting B](#meeting-a-and-meeting-b)
   - [Breakout Rooms](#breakout-rooms)
 - [Discord](#discord-1)
   - [Installation](#installation)
   - [Renaming yourself](#renaming-yourself-1)
+- [Connectivity Issues](#connectivity-issues)
   
 
 <!-- END doctoc generated TOC please keep comment here to allow auto update -->
@@ -34,8 +36,8 @@ The tournament is entirely hosted online. The primary platform for the tournamen
 
 ## Important Links
 <hr>
-A few important links:
 
+A few important links:
 * Vish PD Discord Server: <a href="https://discord.gg/bVNSFhcnDH">Link</a>
 * Zoom Link for day 1: <a href="#">Link</a>
 * Equity Policy: <a href="#">Link</a>
@@ -162,6 +164,15 @@ All debates will be held on Zoom. Please make sure you have Zoom Client Installe
 
 Detailed naming convention can be found <a href="#zoom">here</a>.
 
+### Meeting A and Meeting B
+
+* There will be 2 Zoom meetings called meeting A and meeting B
+* The tabs will show venue as A5 or B2 or A6 and so on
+* If your venue is A5, you are supposed to join meeting A
+* If your venue is B1, you are supposed to join meeting B
+* You will be allocated appropriate breakout room once you join the correct meeting.
+* To ensure smooth flow, join correct meetings, and **Rename yourself** as per the convention in the zoom meeting
+
 ### Breakout Rooms
 * Different rooms will be allocated to participants in the Draws. 
 * As soon as you **rename** yourself, you'll be assigned a breakout room.
@@ -179,10 +190,32 @@ All communications will happen on Discord App. Ensure you have Discord installed
 
 ### Installation
 * Discord can be downloaded for all platforms from https://discord.com/download
-* Once downloaded use the link: <a href="https://discord.me">https://discord.me</a> to join the server.
+* Once downloaded use the link: <a href="https://discord.gg/bVNSFhcnDH">https://discord.gg/bVNSFhcnDH</a> to join the server.
 
 ### Renaming yourself
 
 **Rename yourself as soon as you join the server. Rounds will start on given times strictly. Failing to rename yourself might result in you being dropped from the tabs**
 
 Detailed naming convention can be found <a href="#discord">here</a>.
+
+## Connectivity Issues
+<hr>
+
+* If the breakout room is causing issues, there are spare rooms on Discord on which the debate can continue. The chair should contact a member of the OC in this case.
+
+* If a single speaker disconnects, the chair should wait for a maximum of **two minutes** for the speaker to rejoin, post which their team-mate should be asked to iron-person.
+
+* In the case of both speakers having the same issue as above, they would need to be replaced by a swing team. If one speech has already been given, that speech will be considered as the case for their bench.
+
+* If a judge disconnects during a speech, the chair pauses their timer and if they can reconnect within **two minutes**, they can request the speaker to start back at the point where they disconnected. If they still cannot join, they will be unfortunately dropped from the round. 
+
+* If the chair disconnects, the panel is supposed to request the speaker to stop, and will be given **two minutes** to join back, post which the panel is supposed to directly contact the OC in the main room.
+
+* For the resolution of any further technical issues, kindly contact the technical team or a member of the OC.
+
+* Technical team can found on discord as: 
+  * OC Shubham Mujumdar
+  * OC Aniket
+  * OC Rahib
+  * OC Soumitra Tonapi
+
