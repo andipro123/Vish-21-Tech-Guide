@@ -47,17 +47,17 @@ Participants are requested to follow the naming convention strictly. You will ha
 ### Discord
 Please rename yourself on discord as: \<role> \<Team Code>(if assigned) \<name>
 
-* For e.g. if you are a speaker called Shubham with team code as Cherry, rename yourself as 
+* For e.g. if you are a Speaker called Shubham with team code as Cherry, rename yourself as 
 
   ``` 
   S Cherry Shubham
   ```
 
 
-* For e.g. if you are an adjudicator called Rahib, rename yourself as 
+* For e.g. if you are an adjudicator(Judge) called Rahib, rename yourself as 
 
   ``` 
-  A Rahib
+  J Rahib
   ```
 
 
@@ -147,15 +147,13 @@ All debates will be held on Zoom. Please make sure you have Zoom Client Installe
 *To be able to use Breakout Rooms feature, ZOOM CLIENT needs to be updated to version 5.3.0 or higher*
 
 ### Update/Install
-* Clicking on download from the link at https://zoom.us/support/download   
-    OR
+* Clicking on download from the link at https://zoom.us/support/download
+  
 * 1. Sign in to your zoom desktop client
-  2. Click your profile picture
-  3. Click on check for updates
+  1. Click your profile picture
+  2. Click on check for updates
    
         <img src='./Assets/updates.png' height=400 width=200>
-
-* If you are using Zoom on your phone, please update it to the latest versions using <a href="https://apps.apple.com/us/app/zoom-cloud-meetings/id546505307"> App Store </a> OR <a href="https://play.google.com/store/apps/details?id=us.zoom.videomeetings&hl=en_IN&gl=US">Play Store</a> links.
 
 
 ### Renaming yourself
@@ -181,7 +179,6 @@ All communications will happen on Discord App. Ensure you have Discord installed
 
 ### Installation
 * Discord can be downloaded for all platforms from https://discord.com/download
-* Update to the latest versions using <a href="https://apps.apple.com/us/app/discord-talk-chat-hang-out/id985746746">iOS</a> or <a href="https://play.google.com/store/apps/details?id=com.discord&hl=en_US&gl=US">Android</a> links.
 * Once downloaded use the link: <a href="https://discord.me">https://discord.me</a> to join the server.
 
 ### Renaming yourself
@@ -189,4 +186,3 @@ All communications will happen on Discord App. Ensure you have Discord installed
 **Rename yourself as soon as you join the server. Rounds will start on given times strictly. Failing to rename yourself might result in you being dropped from the tabs**
 
 Detailed naming convention can be found <a href="#discord">here</a>.
-
