@@ -40,7 +40,7 @@ The tournament is entirely hosted online. The primary platform for the tournamen
 A few important links:
 * Vish PD Discord Server: <a href="https://discord.gg/bVNSFhcnDH">Link</a>
 * Zoom Link for day 1: <a href="#">Link</a>
-* Equity Policy: <a href="#">Link</a>
+* Equity Policy: <a href="https://drive.google.com/file/d/1qYtJzGTBFa0cs35_uX7pAPTBOdk8Jf2x/view?usp=sharing">Link</a>
 
 ## Naming Convention
 <hr>
