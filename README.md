@@ -1,8 +1,4 @@
 <h1 align="center"> Sir Visvesvaraya Memorial PD 2021 Tech-Guide </h1> <br>
-<p align="center">
-<img src='./Assets/Vish_logo.JPG' alt='VishLogo' style='width: 300px; height: 300px;'>
-</p>
-
 <p>
   A lot of Parliamentary debates have gone online due to the pandemic. It requires us to use multiple technologies, and often times not every participant is well-versed with every technology. Most organising committees will require to publish some sort of tech-guide for their participants. 
 
